@@ -27,6 +27,52 @@
 .App-link {
   color: #61dafb;
 }
+.Body{
+
+  background-color: #282c34;
+  min-height: 20vh;
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: calc(10px+2vmin);
+  color:white;
+  text-align: center;
+}
+
+
+.Footer{
+  background-color: #0fff2f;
+  min-height: 20vh;
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: calc(10px+2vmin);
+  color:white;
+  text-align: center;
+}
+
+.Banner{
+  background-color: #ffff2f;
+  min-height: 20vh;
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: calc(10px+2vmin);
+  color:white;
+  text-align: center;
+}
+
+
+.Header{
+  background-color: #00ff2f;
+  min-height: 20vh;
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: calc(10px+2vmin);
+  color:white;
+  text-align: center;
+}
 
 @keyframes App-logo-spin {
   from {
